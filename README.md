@@ -1,3 +1,5 @@
+# pacman
+
 This code creates a simple animation of Pac-Man moving forward and backward across the screen. 
 The animation starts when the "Start" button is clicked.
 Two images (one for moving forward and one for moving backward) alternate as Pac-Man moves along the screen.
